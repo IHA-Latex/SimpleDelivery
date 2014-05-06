@@ -35,3 +35,10 @@ When organizing your files, you can use the following structure:
 
 ## LatexModules
 The [LatexModules](https://github.com/Limro/LatexModules) is a repository with a lot of small packages and configurations of these, which makes it easy to get starting with writing a document.
+
+Navigate to the LatexModules folder and run the following commands:
+
+```git
+git submodule init
+git submodule update
+```
