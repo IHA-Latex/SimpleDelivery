@@ -1,0 +1,34 @@
+# Files created with Latex which are unwanted
+
+##### Latex ##### 
+*.acn
+*.acr
+*.alg
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.idx
+*.ilg
+*.ind
+*.ist
+*.glg
+*.glo
+*.gls
+*.lof
+*.log
+*.lot
+*.lox
+*.lox.orig
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.orig
+*.synctex.gz
+*.toc
+/Documentation/**/*.pdf
+
+!**/Appendix/*.pdf #An exception
+
+
